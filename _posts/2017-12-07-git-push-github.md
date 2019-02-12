@@ -2,7 +2,7 @@
 layout: post
 title:  "这是徐代龙进行的第二篇文章"
 categories: SnakeSon
-tags:  hexo JavaScript
+tags: JavaScript
 author: SnakeSon
 ---
 
